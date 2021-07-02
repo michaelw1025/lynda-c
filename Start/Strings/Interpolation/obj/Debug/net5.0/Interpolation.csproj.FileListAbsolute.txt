@@ -1,0 +1,16 @@
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Strings\Interpolation\bin\Debug\net5.0\Interpolation.exe
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Strings\Interpolation\bin\Debug\net5.0\Interpolation.deps.json
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Strings\Interpolation\bin\Debug\net5.0\Interpolation.runtimeconfig.json
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Strings\Interpolation\bin\Debug\net5.0\Interpolation.runtimeconfig.dev.json
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Strings\Interpolation\bin\Debug\net5.0\Interpolation.dll
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Strings\Interpolation\bin\Debug\net5.0\ref\Interpolation.dll
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Strings\Interpolation\bin\Debug\net5.0\Interpolation.pdb
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Strings\Interpolation\obj\Debug\net5.0\Interpolation.csprojAssemblyReference.cache
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Strings\Interpolation\obj\Debug\net5.0\Interpolation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Strings\Interpolation\obj\Debug\net5.0\Interpolation.AssemblyInfoInputs.cache
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Strings\Interpolation\obj\Debug\net5.0\Interpolation.AssemblyInfo.cs
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Strings\Interpolation\obj\Debug\net5.0\Interpolation.csproj.CoreCompileInputs.cache
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Strings\Interpolation\obj\Debug\net5.0\Interpolation.dll
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Strings\Interpolation\obj\Debug\net5.0\ref\Interpolation.dll
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Strings\Interpolation\obj\Debug\net5.0\Interpolation.pdb
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Strings\Interpolation\obj\Debug\net5.0\Interpolation.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Strings\Formatting\bin\Debug\net5.0\Formatting.exe
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Strings\Formatting\bin\Debug\net5.0\Formatting.deps.json
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Strings\Formatting\bin\Debug\net5.0\Formatting.runtimeconfig.json
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Strings\Formatting\bin\Debug\net5.0\Formatting.runtimeconfig.dev.json
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Strings\Formatting\bin\Debug\net5.0\Formatting.dll
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Strings\Formatting\bin\Debug\net5.0\ref\Formatting.dll
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Strings\Formatting\bin\Debug\net5.0\Formatting.pdb
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Strings\Formatting\obj\Debug\net5.0\Formatting.csprojAssemblyReference.cache
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Strings\Formatting\obj\Debug\net5.0\Formatting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Strings\Formatting\obj\Debug\net5.0\Formatting.AssemblyInfoInputs.cache
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Strings\Formatting\obj\Debug\net5.0\Formatting.AssemblyInfo.cs
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Strings\Formatting\obj\Debug\net5.0\Formatting.csproj.CoreCompileInputs.cache
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Strings\Formatting\obj\Debug\net5.0\Formatting.dll
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Strings\Formatting\obj\Debug\net5.0\ref\Formatting.dll
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Strings\Formatting\obj\Debug\net5.0\Formatting.pdb
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Strings\Formatting\obj\Debug\net5.0\Formatting.genruntimeconfig.cache
