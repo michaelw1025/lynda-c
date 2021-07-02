@@ -1,0 +1,16 @@
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Program Flow\Conditional-if\bin\Debug\net5.0\Conditional-if.exe
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Program Flow\Conditional-if\bin\Debug\net5.0\Conditional-if.deps.json
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Program Flow\Conditional-if\bin\Debug\net5.0\Conditional-if.runtimeconfig.json
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Program Flow\Conditional-if\bin\Debug\net5.0\Conditional-if.runtimeconfig.dev.json
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Program Flow\Conditional-if\bin\Debug\net5.0\Conditional-if.dll
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Program Flow\Conditional-if\bin\Debug\net5.0\ref\Conditional-if.dll
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Program Flow\Conditional-if\bin\Debug\net5.0\Conditional-if.pdb
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Program Flow\Conditional-if\obj\Debug\net5.0\Conditional-if.csprojAssemblyReference.cache
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Program Flow\Conditional-if\obj\Debug\net5.0\Conditional-if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Program Flow\Conditional-if\obj\Debug\net5.0\Conditional-if.AssemblyInfoInputs.cache
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Program Flow\Conditional-if\obj\Debug\net5.0\Conditional-if.AssemblyInfo.cs
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Program Flow\Conditional-if\obj\Debug\net5.0\Conditional-if.csproj.CoreCompileInputs.cache
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Program Flow\Conditional-if\obj\Debug\net5.0\Conditional-if.dll
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Program Flow\Conditional-if\obj\Debug\net5.0\ref\Conditional-if.dll
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Program Flow\Conditional-if\obj\Debug\net5.0\Conditional-if.pdb
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Program Flow\Conditional-if\obj\Debug\net5.0\Conditional-if.genruntimeconfig.cache
