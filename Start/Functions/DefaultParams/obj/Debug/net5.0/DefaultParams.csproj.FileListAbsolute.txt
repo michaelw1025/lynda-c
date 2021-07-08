@@ -1,0 +1,16 @@
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Functions\DefaultParams\bin\Debug\net5.0\DefaultParams.exe
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Functions\DefaultParams\bin\Debug\net5.0\DefaultParams.deps.json
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Functions\DefaultParams\bin\Debug\net5.0\DefaultParams.runtimeconfig.json
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Functions\DefaultParams\bin\Debug\net5.0\DefaultParams.runtimeconfig.dev.json
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Functions\DefaultParams\bin\Debug\net5.0\DefaultParams.dll
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Functions\DefaultParams\bin\Debug\net5.0\ref\DefaultParams.dll
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Functions\DefaultParams\bin\Debug\net5.0\DefaultParams.pdb
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Functions\DefaultParams\obj\Debug\net5.0\DefaultParams.csprojAssemblyReference.cache
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Functions\DefaultParams\obj\Debug\net5.0\DefaultParams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Functions\DefaultParams\obj\Debug\net5.0\DefaultParams.AssemblyInfoInputs.cache
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Functions\DefaultParams\obj\Debug\net5.0\DefaultParams.AssemblyInfo.cs
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Functions\DefaultParams\obj\Debug\net5.0\DefaultParams.csproj.CoreCompileInputs.cache
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Functions\DefaultParams\obj\Debug\net5.0\DefaultParams.dll
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Functions\DefaultParams\obj\Debug\net5.0\ref\DefaultParams.dll
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Functions\DefaultParams\obj\Debug\net5.0\DefaultParams.pdb
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Functions\DefaultParams\obj\Debug\net5.0\DefaultParams.genruntimeconfig.cache

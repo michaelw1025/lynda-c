@@ -1,0 +1,16 @@
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Functions\Challenge\obj\Debug\net5.0\Challenge.csprojAssemblyReference.cache
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Functions\Challenge\obj\Debug\net5.0\Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Functions\Challenge\obj\Debug\net5.0\Challenge.AssemblyInfoInputs.cache
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Functions\Challenge\obj\Debug\net5.0\Challenge.AssemblyInfo.cs
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Functions\Challenge\obj\Debug\net5.0\Challenge.csproj.CoreCompileInputs.cache
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Functions\Challenge\bin\Debug\net5.0\Challenge.exe
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Functions\Challenge\bin\Debug\net5.0\Challenge.deps.json
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Functions\Challenge\bin\Debug\net5.0\Challenge.runtimeconfig.json
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Functions\Challenge\bin\Debug\net5.0\Challenge.runtimeconfig.dev.json
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Functions\Challenge\bin\Debug\net5.0\Challenge.dll
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Functions\Challenge\bin\Debug\net5.0\ref\Challenge.dll
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Functions\Challenge\bin\Debug\net5.0\Challenge.pdb
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Functions\Challenge\obj\Debug\net5.0\Challenge.dll
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Functions\Challenge\obj\Debug\net5.0\ref\Challenge.dll
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Functions\Challenge\obj\Debug\net5.0\Challenge.pdb
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Functions\Challenge\obj\Debug\net5.0\Challenge.genruntimeconfig.cache

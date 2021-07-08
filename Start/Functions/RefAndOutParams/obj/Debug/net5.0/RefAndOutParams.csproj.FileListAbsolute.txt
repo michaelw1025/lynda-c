@@ -1,0 +1,16 @@
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Functions\RefAndOutParams\bin\Debug\net5.0\RefAndOutParams.exe
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Functions\RefAndOutParams\bin\Debug\net5.0\RefAndOutParams.deps.json
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Functions\RefAndOutParams\bin\Debug\net5.0\RefAndOutParams.runtimeconfig.json
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Functions\RefAndOutParams\bin\Debug\net5.0\RefAndOutParams.runtimeconfig.dev.json
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Functions\RefAndOutParams\bin\Debug\net5.0\RefAndOutParams.dll
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Functions\RefAndOutParams\bin\Debug\net5.0\ref\RefAndOutParams.dll
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Functions\RefAndOutParams\bin\Debug\net5.0\RefAndOutParams.pdb
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Functions\RefAndOutParams\obj\Debug\net5.0\RefAndOutParams.csprojAssemblyReference.cache
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Functions\RefAndOutParams\obj\Debug\net5.0\RefAndOutParams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Functions\RefAndOutParams\obj\Debug\net5.0\RefAndOutParams.AssemblyInfoInputs.cache
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Functions\RefAndOutParams\obj\Debug\net5.0\RefAndOutParams.AssemblyInfo.cs
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Functions\RefAndOutParams\obj\Debug\net5.0\RefAndOutParams.csproj.CoreCompileInputs.cache
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Functions\RefAndOutParams\obj\Debug\net5.0\RefAndOutParams.dll
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Functions\RefAndOutParams\obj\Debug\net5.0\ref\RefAndOutParams.dll
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Functions\RefAndOutParams\obj\Debug\net5.0\RefAndOutParams.pdb
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Functions\RefAndOutParams\obj\Debug\net5.0\RefAndOutParams.genruntimeconfig.cache
