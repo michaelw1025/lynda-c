@@ -1,0 +1,16 @@
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Classes\StringRep\bin\Debug\net5.0\StringRep.exe
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Classes\StringRep\bin\Debug\net5.0\StringRep.deps.json
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Classes\StringRep\bin\Debug\net5.0\StringRep.runtimeconfig.json
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Classes\StringRep\bin\Debug\net5.0\StringRep.runtimeconfig.dev.json
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Classes\StringRep\bin\Debug\net5.0\StringRep.dll
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Classes\StringRep\bin\Debug\net5.0\ref\StringRep.dll
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Classes\StringRep\bin\Debug\net5.0\StringRep.pdb
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Classes\StringRep\obj\Debug\net5.0\StringRep.csprojAssemblyReference.cache
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Classes\StringRep\obj\Debug\net5.0\StringRep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Classes\StringRep\obj\Debug\net5.0\StringRep.AssemblyInfoInputs.cache
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Classes\StringRep\obj\Debug\net5.0\StringRep.AssemblyInfo.cs
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Classes\StringRep\obj\Debug\net5.0\StringRep.csproj.CoreCompileInputs.cache
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Classes\StringRep\obj\Debug\net5.0\StringRep.dll
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Classes\StringRep\obj\Debug\net5.0\ref\StringRep.dll
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Classes\StringRep\obj\Debug\net5.0\StringRep.pdb
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Classes\StringRep\obj\Debug\net5.0\StringRep.genruntimeconfig.cache

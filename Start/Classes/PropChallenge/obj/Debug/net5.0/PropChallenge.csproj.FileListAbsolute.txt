@@ -1,0 +1,16 @@
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Classes\PropChallenge\obj\Debug\net5.0\PropChallenge.csprojAssemblyReference.cache
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Classes\PropChallenge\obj\Debug\net5.0\PropChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Classes\PropChallenge\obj\Debug\net5.0\PropChallenge.AssemblyInfoInputs.cache
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Classes\PropChallenge\obj\Debug\net5.0\PropChallenge.AssemblyInfo.cs
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Classes\PropChallenge\obj\Debug\net5.0\PropChallenge.csproj.CoreCompileInputs.cache
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Classes\PropChallenge\bin\Debug\net5.0\PropChallenge.exe
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Classes\PropChallenge\bin\Debug\net5.0\PropChallenge.deps.json
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Classes\PropChallenge\bin\Debug\net5.0\PropChallenge.runtimeconfig.json
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Classes\PropChallenge\bin\Debug\net5.0\PropChallenge.runtimeconfig.dev.json
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Classes\PropChallenge\bin\Debug\net5.0\PropChallenge.dll
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Classes\PropChallenge\bin\Debug\net5.0\ref\PropChallenge.dll
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Classes\PropChallenge\bin\Debug\net5.0\PropChallenge.pdb
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Classes\PropChallenge\obj\Debug\net5.0\PropChallenge.dll
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Classes\PropChallenge\obj\Debug\net5.0\ref\PropChallenge.dll
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Classes\PropChallenge\obj\Debug\net5.0\PropChallenge.pdb
+C:\Users\wmwillia\Documents\repos\lynda-C#\Start\Classes\PropChallenge\obj\Debug\net5.0\PropChallenge.genruntimeconfig.cache
