@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "dr4nLRreq7PMcoVBnr5QsUe36K2pvHeZ5AZ21K5XwBNmF24ZQExCHhKF1TuXrcDvAhYjDcHvT+h1M3uAH+6Uhg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wmwillia\\Documents\\repos\\lynda-C#\\Collections\\Start\\Ch2_Basic\\LinkedList\\LinkedList.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wmwillia\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\wmwillia\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\wmwillia\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\wmwillia\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
