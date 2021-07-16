@@ -1,0 +1,28 @@
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Interfaces\BasicInterfaces\BasicInterfaces\bin\Debug\BasicInterfaces.exe.config
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Interfaces\BasicInterfaces\BasicInterfaces\obj\Debug\BasicInterfaces.csprojResolveAssemblyReference.cache
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Interfaces\BasicInterfaces\BasicInterfaces\bin\Debug\BasicInterfaces.exe
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Interfaces\BasicInterfaces\BasicInterfaces\bin\Debug\BasicInterfaces.pdb
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Interfaces\BasicInterfaces\BasicInterfaces\obj\Debug\BasicInterfaces.exe
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Interfaces\BasicInterfaces\BasicInterfaces\obj\Debug\BasicInterfaces.pdb
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Interfaces-Generics\Interfaces\BasicInterfaces\BasicInterfaces\bin\Debug\BasicInterfaces.exe.config
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Interfaces-Generics\Interfaces\BasicInterfaces\BasicInterfaces\obj\Debug\BasicInterfaces.exe
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Interfaces-Generics\Interfaces\BasicInterfaces\BasicInterfaces\obj\Debug\BasicInterfaces.pdb
+C:\Users\Joe Marini\Desktop\Exercise Files\FinishedExamples\Interfaces\BasicInterfaces\BasicInterfaces\bin\Debug\BasicInterfaces.exe.config
+C:\Users\Joe Marini\Desktop\Exercise Files\FinishedExamples\Interfaces\BasicInterfaces\BasicInterfaces\obj\Debug\BasicInterfaces.exe
+C:\Users\Joe Marini\Desktop\Exercise Files\FinishedExamples\Interfaces\BasicInterfaces\BasicInterfaces\obj\Debug\BasicInterfaces.pdb
+C:\Users\Joe Marini\Desktop\Exercise Files\FinishedExamples\Interfaces\BasicInterfaces\BasicInterfaces\bin\Debug\BasicInterfaces.exe
+C:\Users\Joe Marini\Desktop\Exercise Files\FinishedExamples\Interfaces\BasicInterfaces\BasicInterfaces\bin\Debug\BasicInterfaces.pdb
+C:\Users\Joe Marini\Desktop\Exercise Files\FinishedExamples\Interfaces\BasicInterfaces\BasicInterfaces\obj\Debug\BasicInterfaces.csprojResolveAssemblyReference.cache
+C:\Users\Joe Marini\Desktop\Exercise Files\Ch02\02_02\BasicInterfaces\bin\Debug\BasicInterfaces.exe.config
+C:\Users\Joe Marini\Desktop\Exercise Files\Ch02\02_02\BasicInterfaces\obj\Debug\BasicInterfaces.exe
+C:\Users\Joe Marini\Desktop\Exercise Files\Ch02\02_02\BasicInterfaces\obj\Debug\BasicInterfaces.pdb
+C:\Users\Joe Marini\Desktop\Exercise Files\Ch02\02_02\BasicInterfaces\bin\Debug\BasicInterfaces.exe
+C:\Users\Joe Marini\Desktop\Exercise Files\Ch02\02_02\BasicInterfaces\bin\Debug\BasicInterfaces.pdb
+C:\Users\Joe Marini\Desktop\Exercise Files\Ch02\02_02\BasicInterfaces\obj\Debug\BasicInterfaces.csprojResolveAssemblyReference.cache
+C:\Users\wmwillia\Documents\repos\lynda-C#\InterfacesGenerics\Ch02\02_02\BasicInterfaces\bin\Debug\BasicInterfaces.exe.config
+C:\Users\wmwillia\Documents\repos\lynda-C#\InterfacesGenerics\Ch02\02_02\BasicInterfaces\bin\Debug\BasicInterfaces.exe
+C:\Users\wmwillia\Documents\repos\lynda-C#\InterfacesGenerics\Ch02\02_02\BasicInterfaces\bin\Debug\BasicInterfaces.pdb
+C:\Users\wmwillia\Documents\repos\lynda-C#\InterfacesGenerics\Ch02\02_02\BasicInterfaces\obj\Debug\BasicInterfaces.csprojAssemblyReference.cache
+C:\Users\wmwillia\Documents\repos\lynda-C#\InterfacesGenerics\Ch02\02_02\BasicInterfaces\obj\Debug\BasicInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\wmwillia\Documents\repos\lynda-C#\InterfacesGenerics\Ch02\02_02\BasicInterfaces\obj\Debug\BasicInterfaces.exe
+C:\Users\wmwillia\Documents\repos\lynda-C#\InterfacesGenerics\Ch02\02_02\BasicInterfaces\obj\Debug\BasicInterfaces.pdb
